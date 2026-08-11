@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.fancy1{
+    background-color: black;
+    color: white;
+}
+
+.fancy2{
+    background-color: yellow;
+}
+
+.fancy1,
+.fancy2{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
